@@ -1,0 +1,1 @@
+g++ crypt.cpp test.cpp wiku_key.cpp -o3 -o danger/v.exe -fpermissive

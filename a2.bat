@@ -1,0 +1,1 @@
+g++ crypt.cpp main.cpp wiku_key.cpp -o0 -o wcode.exe
